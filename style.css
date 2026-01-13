@@ -427,7 +427,12 @@
                 position: fill;
             }
         }
-
+        .img-menor {
+            width: 100%;
+            img {
+                width: 75%;
+            }
+        }
         .contact-content {
             max-width: 800px;
             margin: 0 auto;
